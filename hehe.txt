@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>WandaVision</title>
+        <title>Loki</title>
     </head>
     <body>
     </body>
