@@ -1,5 +1,5 @@
 let tileQty = 10; //number of hoverable tiles in the cursor wall
-let imgList = ["dog1","dog2","dog3","dog4"]; //to modify the images
+let imgList = ["dog1.jpg","dog2.jpg","dog3.jpg","dog4.jpg"]; //to modify the images
 let tile;
 let bg = document.getElementById("cursorWall");
 var elem, rect, num, temp;
@@ -63,7 +63,7 @@ function generateCursorImg() {
         num = Math.floor(Math.random()*imgList.length);
     }
     temp = num;
-    document.getElementById("cursorimg").style.backgroundImage = "url(media/" + imgList[num] + ".jpg)";
+    document.getElementById("cursorimg").style.backgroundImage = "url(media/" + imgList[num];
 }
 
 $(".tile").mouseover(function(){
