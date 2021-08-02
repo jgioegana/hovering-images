@@ -1,5 +1,9 @@
 # hovering-images
-This project aims to create a hoverable field that transforms your cursor to images of your choice.
+Create a hoverable field that transforms your cursor to images of your choice.
+
+# Demo
+Check the demo: http://hoverimages.gioreyes.me/
+Check my website: https://gioreyes.me/
 
 # Prerequisites
 Download jQuery library.
