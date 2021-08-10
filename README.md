@@ -10,6 +10,6 @@ Check my website: https://gioreyes.me/
 Download [jQuery](https://jquery.com/download/).
 
 # How to update
-**Images:** You can update the images by replacing the **imgList** array contents with your image filenames (including file type).
+**Images (imgList):** You can update the images by replacing the **imgList** array contents with your image filenames (including file type).
 
-**Frequency of image switch:** Simply modify the variable **tileQty**. The higher the number, the more frequent the cursor will change images. 
+**Frequency of image switch (tileQty):** Simply modify the variable **tileQty**. The higher the number, the more frequent the cursor will change images. 
