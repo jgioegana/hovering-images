@@ -7,7 +7,7 @@ Check the demo: http://hoverimages.gioreyes.me/
 Check my website: https://gioreyes.me/
 
 # Prerequisites
-Download jQuery library.
+Download [jQuery](https://jquery.com/download/).
 
 # How to update
 **Images:** You can update the images by replacing the **imgList** array contents with your image filenames (including file type).
