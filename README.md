@@ -2,7 +2,7 @@
 Create a hoverable field that transforms your cursor to images of your choice.
 
 # Demo
-Check the demo: http://hoverimages.gioreyes.me/
+Check the demo: https://codepen.io/jgioegana/pen/ExQeVQY
 
 Check my website: https://gioreyes.me/
 
